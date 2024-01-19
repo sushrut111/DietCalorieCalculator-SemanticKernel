@@ -1,0 +1,5 @@
+{
+  "model": "NAME-OF-MODEL-DEPLOYMENT",
+  "endpoint": "AZURE-OPENAI-ENDPOINT",
+  "apikey": "AZURE-OPENAI-API-KEY"
+}
